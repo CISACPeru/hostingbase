@@ -1,0 +1,124 @@
+/* 
+main color : #fb9600
+seconday color : #100d43
+*/ 
+
+/* Main color */ 
+body.theme-orange .font-theme-color,
+body.theme-orange section.service .cm-right .cm-right-wrap .why-list .wl-box .wl-box-left,
+body.theme-orange .section-team .img-box a:hover li,
+body.theme-orange section.home-blog .by-icon,
+body.theme-orange .post-page ul li.prev a:hover,
+body.theme-orange .post-page ul li.next a:hover,
+body.theme-orange .title-banner .tb-text .page-info,
+body.theme-orange .wrap-circle-sosmed:hover a,
+body.theme-orange section.footer .footer-post-item .fp-content .fpc-date,
+body.theme-orange section.footer .ct-footer .content-footer-col .footer-item-contact .icons,
+body.theme-orange section.testimonial .heading-text,
+body.theme-orange section.testimonial .item-testimonial .client-info .rating,
+body.theme-orange section.testimonial .item-testimonial .client-content h4,
+body.theme-orange header.header.sticky .logo .fa-chart-pie,
+body.theme-orange section.image-menu .im-box .imb-text .text-heading-service { color: #fb9600; }
+@media screen and (max-width: 991px) { 
+body.theme-orange header.header .logo span i { color: #fb9600; } }
+
+body.theme-orange .back-to-top,
+body.theme-orange .section-title h1:before,
+body.theme-orange section.service .cm-left .cm-left-content-layer .section-title,
+body.theme-orange section.home-blog .bloghome-wrap .blg-top .blg-top-date,
+body.theme-orange .page-sidebar-2 .sidebar-widget .header-sb .sidebar-heading:after,
+body.theme-orange  .contact-form .heading-footer-col:before,
+body.theme-orange  section.footer .ct-footer .heading-footer-col:before,
+body.theme-orange  .style-option-wrap .style-btn-class,
+body.theme-orange .tag-cloud-wrap a:hover{ background: #fb9600; }
+
+body.theme-orange .back-to-top.btn-primary:hover, 
+body.theme-orange .back-to-top.btn-primary:focus, 
+body.theme-orange .back-to-top.btn-primary:active, 
+body.theme-orange .back-to-top.btn-primary.active, 
+body.theme-orange .open .back-to-top.dropdown-toggle.btn-primary,
+body.theme-orange .theme-btn:hover,
+body.theme-orange .theme-btn.light,
+body.theme-orange .box-price-list .joinnow:hover,
+body.theme-orange .portfolio-gallery .btn.fil-cat:hover {background-color: #fb9600; }
+
+body.theme-orange .tag-cloud-wrap a:hover,
+body.theme-orange .wrap-circle-sosmed,
+body.theme-orange .portfolio-gallery .btn.fil-cat:hover  { border: 1px solid #fb9600; }
+body.theme-orange .page-sidebar .header-sb::after { border-bottom: 3px solid #fb9600; }
+
+
+/* Secondary color */ 
+body.theme-orange .text-theme ,
+body.theme-orange body .page-link,
+body.theme-orange .theme-btn.light,
+body.theme-orange section.get-in-touch .git-right .btn-git { color: #100d43; }
+
+body.theme-orange section.get-in-touch .git-right .btn-git:hover,
+body.theme-orange section.footer,
+body.theme-orange section.service .cm-right, 
+body.theme-orange section.testimonial, 
+body.theme-orange .btn-theme,
+body.theme-orange .rounded-button,
+body.theme-orange .outline-btn:hover,
+body.theme-orange section.service  { background: #100d43; }
+
+body.theme-orange .theme-btn,
+body.theme-orange .theme-btn.light:hover, 
+body.theme-orange .box-price-list .joinnow,
+body.theme-orange body .page-item.active .page-link  { background-color: #100d43; }
+
+body.theme-orange .outline-btn:hover,
+body.theme-orange body .form-control:focus,
+body.theme-orange body .form-control:active,
+body.theme-orange section.get-in-touch .git-right .btn-git  { border: 1px solid #100d43; }
+
+body.theme-orange body .page-item.active .page-link {  border-color: #100d43; }
+
+body.theme-orange .sticky .nav-header nav .navbar-nav > li > a:hover,
+body.theme-orange .header.sticky .nav-header .nav > li.active > a { border-bottom: 5px solid #100d43; } 
+
+body.theme-orange .portfolio-gallery .btn.fil-cat:hover,
+body.theme-orange .theme-btn.light,
+body.theme-orange .box-price-list .joinnow:hover,
+body.theme-orange .section-team a,
+body.theme-orange .theme-btn:hover,
+body.theme-orange section.get-in-touch .git-right .btn-git:hover { color: #ffffff; }
+body.theme-orange .section-team .img-box ul li { border: 1px solid #ffffff; }
+
+body.theme-orange section.testimonial .bg-tst .bg-color-tst,
+body.theme-orange .sc-portfolio { background: #1d2250}
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,125 @@
+/* 
+main color : #9cc212
+seconday color : #1b4227
+*/ 
+
+/* Main color */ 
+body.theme-greenleaf .font-theme-color,
+body.theme-greenleaf section.service .cm-right .cm-right-wrap .why-list .wl-box .wl-box-left,
+body.theme-greenleaf .section-team .img-box a:hover li,
+body.theme-greenleaf section.home-blog .by-icon,
+body.theme-greenleaf .post-page ul li.prev a:hover,
+body.theme-greenleaf .post-page ul li.next a:hover,
+body.theme-greenleaf .title-banner .tb-text .page-info,
+body.theme-greenleaf .wrap-circle-sosmed:hover a,
+body.theme-greenleaf section.footer .footer-post-item .fp-content .fpc-date,
+body.theme-greenleaf section.footer .ct-footer .content-footer-col .footer-item-contact .icons,
+body.theme-greenleaf section.testimonial .heading-text,
+body.theme-greenleaf section.testimonial .item-testimonial .client-info .rating,
+body.theme-greenleaf section.testimonial .item-testimonial .client-content h4,
+body.theme-greenleaf header.header.sticky .logo .fa-chart-pie,
+body.theme-greenleaf section.image-menu .im-box .imb-text .text-heading-service { color: #9cc212; }
+@media screen and (max-width: 991px) { 
+body.theme-greenleaf header.header .logo span i { color: #9cc212; } }
+
+body.theme-greenleaf .back-to-top,
+body.theme-greenleaf .section-title h1:before,
+body.theme-greenleaf section.service .cm-left .cm-left-content-layer .section-title,
+body.theme-greenleaf section.home-blog .bloghome-wrap .blg-top .blg-top-date,
+body.theme-greenleaf .page-sidebar-2 .sidebar-widget .header-sb .sidebar-heading:after,
+body.theme-greenleaf  .contact-form .heading-footer-col:before,
+body.theme-greenleaf  section.footer .ct-footer .heading-footer-col:before,
+body.theme-greenleaf  .style-option-wrap .style-btn-class,
+body.theme-greenleaf .tag-cloud-wrap a:hover{ background: #9cc212; }
+
+body.theme-greenleaf .back-to-top.btn-primary:hover, 
+body.theme-greenleaf .back-to-top.btn-primary:focus, 
+body.theme-greenleaf .back-to-top.btn-primary:active, 
+body.theme-greenleaf .back-to-top.btn-primary.active, 
+body.theme-greenleaf .open .back-to-top.dropdown-toggle.btn-primary,
+body.theme-greenleaf .theme-btn:hover,
+body.theme-greenleaf .theme-btn.light,
+body.theme-greenleaf .box-price-list .joinnow:hover,
+body.theme-greenleaf .portfolio-gallery .btn.fil-cat:hover {background-color: #9cc212; }
+
+body.theme-greenleaf .tag-cloud-wrap a:hover,
+body.theme-greenleaf .wrap-circle-sosmed,
+body.theme-greenleaf .portfolio-gallery .btn.fil-cat:hover  { border: 1px solid #9cc212; }
+body.theme-greenleaf .page-sidebar .header-sb::after { border-bottom: 3px solid #9cc212; }
+
+
+/* Secondary color */ 
+body.theme-greenleaf .text-theme ,
+body.theme-greenleaf body .page-link,
+body.theme-greenleaf .theme-btn.light,
+body.theme-greenleaf section.get-in-touch .git-right .btn-git { color: #1b4227; }
+
+body.theme-greenleaf section.get-in-touch .git-right .btn-git:hover,
+body.theme-greenleaf section.footer,
+body.theme-greenleaf section.service .cm-right, 
+body.theme-greenleaf section.testimonial, 
+body.theme-greenleaf .btn-theme,
+body.theme-greenleaf .rounded-button,
+body.theme-greenleaf .outline-btn:hover,
+body.theme-greenleaf section.service   { background: #1b4227; }
+
+body.theme-greenleaf .theme-btn,
+body.theme-greenleaf .theme-btn.light:hover, 
+body.theme-greenleaf .box-price-list .joinnow,
+body.theme-greenleaf body .page-item.active .page-link  { background-color: #1b4227; }
+
+body.theme-greenleaf .outline-btn:hover,
+body.theme-greenleaf body .form-control:focus,
+body.theme-greenleaf body .form-control:active,
+body.theme-greenleaf section.get-in-touch .git-right .btn-git  { border: 1px solid #1b4227; }
+
+body.theme-greenleaf body .page-item.active .page-link {  border-color: #1b4227; }
+
+body.theme-greenleaf .sticky .nav-header nav .navbar-nav > li > a:hover,
+body.theme-greenleaf .header.sticky .nav-header .nav > li.active > a { border-bottom: 5px solid #1b4227; } 
+
+body.theme-greenleaf .portfolio-gallery .btn.fil-cat:hover,
+body.theme-greenleaf .theme-btn.light,
+body.theme-greenleaf .box-price-list .joinnow:hover,
+body.theme-greenleaf .section-team a,
+body.theme-greenleaf .theme-btn:hover,
+body.theme-greenleaf section.get-in-touch .git-right .btn-git:hover { color: #ffffff; }
+body.theme-greenleaf .section-team .img-box ul li { border: 1px solid #ffffff; }
+
+body.theme-greenleaf section.testimonial .bg-tst .bg-color-tst,
+body.theme-greenleaf .sc-portfolio { background: #2c2c2c}
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

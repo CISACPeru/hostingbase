@@ -1,0 +1,123 @@
+/* 
+main color : #e02b2b
+seconday color : #1e1e1e
+*/ 
+
+/* Main color */ 
+body.theme-red .font-theme-color,
+body.theme-red section.service .cm-right .cm-right-wrap .why-list .wl-box .wl-box-left,
+body.theme-red .section-team .img-box a:hover li,
+body.theme-red section.home-blog .by-icon,
+body.theme-red .post-page ul li.prev a:hover,
+body.theme-red .post-page ul li.next a:hover,
+body.theme-red .title-banner .tb-text .page-info,
+body.theme-red .wrap-circle-sosmed:hover a,
+body.theme-red section.footer .footer-post-item .fp-content .fpc-date,
+body.theme-red section.footer .ct-footer .content-footer-col .footer-item-contact .icons,
+body.theme-red section.testimonial .heading-text,
+body.theme-red section.testimonial .item-testimonial .client-info .rating,
+body.theme-red section.testimonial .item-testimonial .client-content h4,
+body.theme-red header.header.sticky .logo .fa-chart-pie,
+body.theme-red section.image-menu .im-box .imb-text .text-heading-service { color: #e02b2b; }
+@media screen and (max-width: 991px) { 
+body.theme-red header.header .logo span i { color: #e02b2b; } }
+
+body.theme-red .back-to-top,
+body.theme-red .section-title h1:before,
+body.theme-red section.service .cm-left .cm-left-content-layer .section-title,
+body.theme-red section.home-blog .bloghome-wrap .blg-top .blg-top-date,
+body.theme-red .page-sidebar-2 .sidebar-widget .header-sb .sidebar-heading:after,
+body.theme-red  .contact-form .heading-footer-col:before,
+body.theme-red  section.footer .ct-footer .heading-footer-col:before,
+body.theme-red  .style-option-wrap .style-btn-class,
+body.theme-red .tag-cloud-wrap a:hover  { background: #e02b2b; }
+
+body.theme-red .back-to-top.btn-primary:hover, 
+body.theme-red .back-to-top.btn-primary:focus, 
+body.theme-red .back-to-top.btn-primary:active, 
+body.theme-red .back-to-top.btn-primary.active, 
+body.theme-red .open .back-to-top.dropdown-toggle.btn-primary,
+body.theme-red .theme-btn:hover,
+body.theme-red .theme-btn.light,
+body.theme-red .box-price-list .joinnow:hover,
+body.theme-red .portfolio-gallery .btn.fil-cat:hover {background-color: #e02b2b; }
+
+body.theme-red .tag-cloud-wrap a:hover,
+body.theme-red .wrap-circle-sosmed,
+body.theme-red .portfolio-gallery .btn.fil-cat:hover  { border: 1px solid #e02b2b; }
+body.theme-red .page-sidebar .header-sb::after { border-bottom: 3px solid #e02b2b; }
+
+
+/* Secondary color */ 
+body.theme-red .text-theme ,
+body.theme-red body .page-link,
+body.theme-red .theme-btn.light,
+body.theme-red section.get-in-touch .git-right .btn-git { color: #1e1e1e; }
+
+body.theme-red section.get-in-touch .git-right .btn-git:hover,
+body.theme-red section.footer,
+body.theme-red section.service .cm-right, 
+body.theme-red section.testimonial, 
+body.theme-red .btn-theme,
+body.theme-red .rounded-button,
+body.theme-red .outline-btn:hover,
+body.theme-red section.service  { background: #1e1e1e; }
+
+body.theme-red .theme-btn,
+body.theme-red .theme-btn.light:hover, 
+body.theme-red .box-price-list .joinnow,
+body.theme-red body .page-item.active .page-link  { background-color: #1e1e1e; }
+
+body.theme-red .outline-btn:hover,
+body.theme-red body .form-control:focus,
+body.theme-red body .form-control:active,
+body.theme-red section.get-in-touch .git-right .btn-git  { border: 1px solid #1e1e1e; }
+
+body.theme-red body .page-item.active .page-link {  border-color: #1e1e1e; }
+
+body.theme-red .sticky .nav-header nav .navbar-nav > li > a:hover,
+body.theme-red .header.sticky .nav-header .nav > li.active > a { border-bottom: 5px solid #1e1e1e; } 
+
+body.theme-red .portfolio-gallery .btn.fil-cat:hover,
+body.theme-red .theme-btn.light,
+body.theme-red .box-price-list .joinnow:hover,
+body.theme-red .section-team a,
+body.theme-red .theme-btn:hover,
+body.theme-red section.get-in-touch .git-right .btn-git:hover { color: #ffffff; }
+body.theme-red .section-team .img-box ul li { border: 1px solid #ffffff; }
+
+body.theme-red section.testimonial .bg-tst .bg-color-tst,
+body.theme-red .sc-portfolio { background: #000000}
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
